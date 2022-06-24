@@ -9,7 +9,14 @@ Username
 password
 login
 
+phoneno
+email
+
 
 thank you
 
+
+Done my changes
+
 final copy
+
