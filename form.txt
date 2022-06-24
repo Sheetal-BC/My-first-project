@@ -9,5 +9,8 @@ Username
 password
 login
 
+phoneno
+email
+
 
 thank you
